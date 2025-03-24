@@ -64,6 +64,4 @@ Contributions are welcome! Feel free to submit a pull request or open an issue f
 
 ---
 
-## 💬 Contact
 
-For any questions or feedback, please reach out at **your_email@example.com**.
